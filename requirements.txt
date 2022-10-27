@@ -3,5 +3,5 @@ pdfkit==0.6.1
 configparser==3.5.0
 androguard==3.2.0
 lxml==4.2.1
-rsa==3.4.2
+rsa==4.7
 git+https://github.com/MobSF/CapFuzz.git
